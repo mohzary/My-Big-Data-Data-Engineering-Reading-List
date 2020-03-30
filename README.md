@@ -21,10 +21,18 @@
 
   -Link:http://www.dcs.bbk.ac.uk/~dell/teaching/cc/paper/sigmod08/p1099-olston.pdf
 
-**(8) Abouzeid, Azza, et al. "HadoopDB: an architectural hybrid of MapReduce and DBMS technologies for analytical workloads."** Proceedings of the VLDB Endowment 2.1 (2009): 922-933.
+**(8). Abouzeid, Azza, et al. "HadoopDB: an architectural hybrid of MapReduce and DBMS technologies for analytical workloads."** Proceedings of the VLDB Endowment 2.1 (2009): 922-933.
 
   -Link:https://people.eecs.berkeley.edu/~kubitron/courses/cs262a-F19/handouts/papers/vldb09-861.pdf
 
-**(9) Stoica, Ion, et al. "Chord: A scalable peer-to-peer lookup service for internet applications."** ACM SIGCOMM Computer Communication Review 31.4 (2001): 149-160.
+**(9). Stoica, Ion, et al. "Chord: A scalable peer-to-peer lookup service for internet applications."** ACM SIGCOMM Computer Communication Review 31.4 (2001): 149-160.
 
   -Link:http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.135.7635&rep=rep1&type=pdf
+  
+**(10). Lakshman, Avinash, and Prashant Malik. "Cassandra: a decentralized structured storage system."** ACM SIGOPS Operating Systems Review 44.2 (2010): 35-40.
+
+  -Link: http://www.cs.cornell.edu/Projects/ladis2009/papers/Lakshman-ladis2009.PDF
+
+**(11). Zaharia, Matei, et al. "Spark: Cluster computing with working sets."** HotCloud 10.10-10 (2010): 95.
+
+  -links: https://www.usenix.org/legacy/event/hotcloud10/tech/full_papers/Zaharia.pdf
